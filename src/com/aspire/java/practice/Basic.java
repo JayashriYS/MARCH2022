@@ -4,6 +4,7 @@ public class Practice{
 	{
 		System.out.println("Helloworld");
 		System.out.println("hi");
+		System.out.println("Helloworld");
 	}
 	
 }
